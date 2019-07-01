@@ -6,19 +6,14 @@
 #Note: The spell is a word of lower case English alphabets only. If there are no vowels in the string, then the spell is classified as "Good".
 
 
-t=int(input())
-while t!=0:
-    s=input()
-    l=[]
-    for i in s:
-        if i in 'aeiou':
-            l.append(i)
-    s1=sorted(l)
-    s2=sorted(l,reverse=True)
-    if s1==l:
-        print("Good")
-    elif s2==l:
-        print("Worst")
-    else:
-        print("Bad")
-    t=t-1>
+
+
+
+
+This is a question from HackerRank, You can practice more codes from the website :https://www.hackerrank.com
+
+
+
+
+
+My HackerRank Profile Link: https://www.hackerrank.com/monalisapanda94
